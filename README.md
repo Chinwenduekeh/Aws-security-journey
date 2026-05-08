@@ -37,4 +37,4 @@ To build real-world cloud security skills through hands-on AWS labs and document
 
 ## 🚀 Progress
 Day 1: IAM Basics ✔️  
-Day 2: In progress...
+Day 2: vpc

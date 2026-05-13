@@ -38,5 +38,4 @@ To build real-world cloud security skills through hands-on AWS labs and document
 ## 🚀 Progress
 Day 1: IAM Basics ✔️  
 Day 2: vpc
-
 Day 3: Secure EC2 Architecture

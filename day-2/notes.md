@@ -1,5 +1,5 @@
 personal Notes 
-today i learned that AWS networkingbecomes easier when visualized step by step.
+today i learned that AWS networking becomes easier when visualized step by step.
 understanding:
 - VPC
 - subnets
@@ -7,4 +7,4 @@ understanding:
 - Internet Gateway
 
 Helped me see how secure cloud environment are built.
-This project improved my understandingof cloud infrastructure and security foundations.
+This project improved my understanding of cloud infrastructure and security foundations.

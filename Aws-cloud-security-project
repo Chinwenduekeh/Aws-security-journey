@@ -1,7 +1,0 @@
-01-iam-fundamentals
-│
-├── README.md
-├── iam-users.png
-├── iam-groups.png
-├── s3-listbucket-policy.json
-└── notes.md

@@ -1,0 +1,45 @@
+AWS Security Auditing Project Report
+
+Project Overview
+
+The objective of this project was to assess the security posture of an AWS environment using native AWS security services. The focus was on identifying configuration issues, evaluating compliance, and documenting findings.
+
+Tools Used
+
+* AWS Config
+* Amazon S3
+* AWS Identity and Access Management (IAM)
+* Visual Studio Code (VS Code)
+
+Audit Activities Performed
+
+1. AWS Config Setup
+
+Configured AWS Config to record supported resource types and deliver configuration snapshots to an Amazon S3 bucket.
+
+2. Compliance Evaluation
+
+Enabled AWS Config rules to evaluate resources against security and compliance requirements.
+
+3. Findings Review
+
+Reviewed compliance results and identified resources that were marked compliant and noncompliant.
+
+4. Security Assessment
+
+Analyzed the evaluation results to understand potential configuration risks and areas requiring further review.
+
+Key Findings
+
+* AWS Config successfully recorded resource configurations.
+* Compliance evaluations were performed against configured rules.
+* Both compliant and noncompliant resources were identified.
+* Continuous monitoring provides visibility into configuration drift and security risks.
+
+Lessons Learned
+
+This project reinforced the importance of continuous monitoring in cloud security. Security is not a one-time activity but an ongoing process of assessing, validating, and improving configurations. AWS Config provides valuable visibility into resource compliance and helps organizations maintain a stronger security posture.
+
+Conclusion
+
+Through this project, I gained hands-on experience with AWS security auditing and compliance monitoring. The ability to identify and document configuration issues is a critical skill for cloud security professionals and an important step toward building secure cloud environments.

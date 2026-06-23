@@ -10,7 +10,7 @@ This project demonstrates how AWS GuardDuty can detect suspicious activities and
 - EC2
 
 ## Architecture
-
+![Architecture](architecture-diagram.png)
 
 ## Key Findings
 - Enabled GuardDuty
